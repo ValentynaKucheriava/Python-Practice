@@ -8,4 +8,4 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 
 | ID | Title | My Solution |
 | --- | --- | --- |
-| [10363](https://platform.stratascratch.com/coding/10363-weekly-orders-report?code_type=5) | Weekly Orders Report | [SQL](Easy/10363_Weekly_Orders_Report.sql)
+| [10164](https://platform.stratascratch.com/coding/10164-total-adwords-earnings?code_type=2) | Total AdWords Earnings| [SQL](Easy/10363_Weekly_Orders_Report.sql)
