@@ -8,4 +8,5 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 
 | ID | Title | My Solution |
 | --- | --- | --- |
-| [10164](https://platform.stratascratch.com/coding/10164-total-adwords-earnings?code_type=2) | Total AdWords Earnings| [SQL](Easy/10363_Weekly_Orders_Report.sql)
+| [10164](https://platform.stratascratch.com/coding/10164-total-adwords-earnings?code_type=2) | Total AdWords Earnings| [Python](Easy/10164_Total_AdWords_Earnings.py)
+)
